@@ -1,0 +1,15 @@
+#toplevel_page_bin-tracker-online img {
+	padding: 8px 0 0 0!important;
+    opacity: .8!important;
+    width: 30px;
+}
+
+#b1nT_setting_logo_div > img {
+	max-width: 100px;
+}
+
+#b1nT_setting_form select, 
+#b1nT_setting_form input[type=text],
+#b1nT_setting_form input[type=password] {
+	min-width: 11.5rem;
+}
